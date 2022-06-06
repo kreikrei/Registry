@@ -1,0 +1,5 @@
+name = "Registry"
+uuid = "f67dcf99-89de-44cb-b41e-2d45d112ff03"
+repo = "https://github.com/kreikrei/Registry.git"
+
+[packages]
