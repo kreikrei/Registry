@@ -1,0 +1,3 @@
+name = "DispatchOps"
+uuid = "fdc3cc23-1282-4485-8f12-43aae555edf1"
+repo = "https://github.com/kreikrei/DispatchOps.jl"

@@ -3,3 +3,4 @@ uuid = "f67dcf99-89de-44cb-b41e-2d45d112ff03"
 repo = "https://github.com/kreikrei/Registry.git"
 
 [packages]
+fdc3cc23-1282-4485-8f12-43aae555edf1 = { name = "DispatchOps", path = "D/DispatchOps" }
