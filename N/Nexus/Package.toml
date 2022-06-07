@@ -1,0 +1,3 @@
+name = "Nexus"
+uuid = "e9ec3f1b-eb74-4459-9c53-c196fe7664ef"
+repo = "https://github.com/kreikrei/Nexus.jl"
